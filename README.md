@@ -16,7 +16,7 @@ Kuhn Poker is the simplest standard model for poker games:
 - **Action:** Players can either **Pass** (Check/Fold) or **Bet** (1 chip). 
 - **Showdown:** If neither folds, the player with the higher card wins the pot.
 
-![](/Users/luojinghao/Downloads/Gemini_Generated_Image_myj9womyj9womyj9.png)
+![策略收敛图](kuhn rules.png)
 
 ## Vanilla CFR
 
