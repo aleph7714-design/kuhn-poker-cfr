@@ -1,6 +1,6 @@
 
 
-# Kuhn Poker AI: Solving Imperfect-Information Games with CFR
+# Kuhn Poker AI: Solving Imperfect-Information Games with Counterfactual Regret Minimization
 
 This project implements the **Counterfactual Regret Minimization (CFR)** algorithm from scratch to solve Kuhn Poker, a simplified zero-sum, imperfect-information game. 
 
